@@ -1,0 +1,9 @@
+﻿
+<p data-name="@server.ServerName" data-status="@(server.IsOnline ? "online":"offline")"
+   style="color:@(server.IsOnline ? "green":"red")">
+    @server.ServerName is located in @server.LocatedCity is now @(server.IsOnline ? "online":"offline")
+</p>
+
+@code {
+    private ServerEntity server = new ServerEntity { ServerName = "abc", LocatedCity = "dhaka" };
+}

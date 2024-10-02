@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\BlazorDD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorDD.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorDD.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\BlazorDD\\wwwroot\\Images\\Calgary.png",
+      "PackagePath": "staticwebassets\\Images\\Calgary.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\BlazorDD\\wwwroot\\Images\\Halifax.png",
+      "PackagePath": "staticwebassets\\Images\\Halifax.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\BlazorDD\\wwwroot\\Images\\Ottawa.png",
+      "PackagePath": "staticwebassets\\Images\\Ottawa.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\BlazorDD\\wwwroot\\Images\\montreal.png",
+      "PackagePath": "staticwebassets\\Images\\montreal.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\BlazorDD\\wwwroot\\Images\\toronto.png",
+      "PackagePath": "staticwebassets\\Images\\toronto.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\BlazorDD\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\BlazorDD\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\BlazorDD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\BlazorDD\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorDD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorDD.props",
+      "PackagePath": "build\\BlazorDD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorDD.props",
+      "PackagePath": "buildMultiTargeting\\BlazorDD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorDD.props",
+      "PackagePath": "buildTransitive\\BlazorDD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

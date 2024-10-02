@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD8D1C3-7866-40C9-8795-31FC05D18406}|BlazorDD\\BlazorDD.csproj|c:\\users\\user\\source\\repos\\blazorddtutorial\\blazordd\\components\\pages\\editserver.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD8D1C3-7866-40C9-8795-31FC05D18406}|BlazorDD\\BlazorDD.csproj|solutionrelative:blazordd\\components\\pages\\editserver.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD8D1C3-7866-40C9-8795-31FC05D18406}|BlazorDD\\BlazorDD.csproj|c:\\users\\user\\source\\repos\\blazorddtutorial\\blazordd\\components\\pages\\server.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD8D1C3-7866-40C9-8795-31FC05D18406}|BlazorDD\\BlazorDD.csproj|solutionrelative:blazordd\\components\\pages\\server.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD8D1C3-7866-40C9-8795-31FC05D18406}|BlazorDD\\BlazorDD.csproj|c:\\users\\user\\source\\repos\\blazorddtutorial\\blazordd\\models\\serverentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD8D1C3-7866-40C9-8795-31FC05D18406}|BlazorDD\\BlazorDD.csproj|solutionrelative:blazordd\\models\\serverentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD8D1C3-7866-40C9-8795-31FC05D18406}|BlazorDD\\BlazorDD.csproj|c:\\users\\user\\source\\repos\\blazorddtutorial\\blazordd\\components\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DD8D1C3-7866-40C9-8795-31FC05D18406}|BlazorDD\\BlazorDD.csproj|solutionrelative:blazordd\\components\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\BlazorDD\\Components\\Pages\\Server.razor",
+              "RelativeDocumentMoniker": "BlazorDD\\Components\\Pages\\Server.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\BlazorDD\\Components\\Pages\\Server.razor",
+              "RelativeToolTip": "BlazorDD\\Components\\Pages\\Server.razor",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T04:37:54.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServerComponent.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\BlazorDD\\Components\\ServerComponent.razor",
+              "RelativeDocumentMoniker": "BlazorDD\\Components\\ServerComponent.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\BlazorDD\\Components\\ServerComponent.razor",
+              "RelativeToolTip": "BlazorDD\\Components\\ServerComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T04:32:50.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditServer.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\BlazorDD\\Components\\Pages\\EditServer.razor",
+              "RelativeDocumentMoniker": "BlazorDD\\Components\\Pages\\EditServer.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\BlazorDD\\Components\\Pages\\EditServer.razor",
+              "RelativeToolTip": "BlazorDD\\Components\\Pages\\EditServer.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T09:37:15.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\BlazorDD\\Models\\ServerEntity.cs",
+              "RelativeDocumentMoniker": "BlazorDD\\Models\\ServerEntity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlazorDDTutorial\\BlazorDD\\Models\\ServerEntity.cs",
+              "RelativeToolTip": "BlazorDD\\Models\\ServerEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T04:24:05.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿@page "/servers/{id:int}"
+
+@if (server != null)
+{
+    <p>@server.ServerName </p>
+    <p> @server.LocatedCity</p>
+    <p> @server.IsOnline</p>
+}
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+    public ServerEntity? server;
+
+    protected override void OnParametersSet()
+    {
+        server = ServerRepository.GetServerById(this.Id);
+    }
+}
